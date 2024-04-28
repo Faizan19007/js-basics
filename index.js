@@ -1,4 +1,4 @@
-// Code With Faizan
+// Code With Faizan Raza
 
 let person = {
     name:"Faizan",
